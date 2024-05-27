@@ -9,7 +9,7 @@ Este projeto consiste em uma aplicação Java que expõe uma API web para valida
 
 # Requisitos
 
-- Java Development Kit (JDK) 8 ou superior
+- Java Development Kit (JDK) 17 ou superior
 - Maven (para compilar e gerenciar dependências)
 
 # Instalação e execução
